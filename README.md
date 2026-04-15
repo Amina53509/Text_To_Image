@@ -27,3 +27,5 @@ Run this in Google Colab or local system:
 ```bash
 pip install diffusers transformers accelerate gradio# Text_To_Image
 Generate image by giving prompt
+Hugging Face
+https://huggingface.co/spaces/am-samreen/ai-image-generator
